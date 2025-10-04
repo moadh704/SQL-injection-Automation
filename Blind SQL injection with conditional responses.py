@@ -123,8 +123,7 @@ class SQLInjectionExploit:
         
         print(f"\nAdministrator password: {password}")
         
-        # Step 3: Login (optional)
-        # self.login_as_administrator(password)
+    
         
         return password
 
